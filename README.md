@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning: **Data Structures, Algorithms, and Machine Learning**
 - 🧠 Actively solving problems from the curated **“LeetCode Top 150”** list to strengthen data structures and algorithms for internship interviews.
-- 💡 Passionate about building real-world solutions with **Python & AI**
+- 💡 Passionate about building real-world solutions in **AI**
 - 💬 Ask me about: Python, Git, basic DSA, and NLP concepts
 - 🧑‍🏫 Volunteer teacher at NGO **Pratigya Abhiyan**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/medha-sharma-b024b0252/)
