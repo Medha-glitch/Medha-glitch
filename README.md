@@ -4,7 +4,7 @@
 ---
 
 - 🌱 Currently learning: **Data Structures, Algorithms, and Machine Learning**
-- 🧠 Focused on improving coding through **LeetCode 150 DSA Challenge**
+- 🧠 Actively solving problems from the curated **“LeetCode Top 150”** list to strengthen data structures and algorithms for internship interviews.
 - 💡 Passionate about building real-world solutions with **Python & AI**
 - 💬 Ask me about: Python, Git, basic DSA, and NLP concepts
 - 🧑‍🏫 Volunteer teacher at NGO **Pratigya Abhiyan**
