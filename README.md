@@ -14,19 +14,28 @@
 
 ## 🚀 Projects I'm Proud Of
 
-### 🧠 Computer Vision with Landing.ai
-> Built & deployed real-time facial orientation detector; trained deep learning models to classify grain types using TensorFlow & OpenCV.
+### 🛒 Commercial Operations Database
+> Designed a relational **MySQL + PL/SQL** database for inventory, orders, deliveries, and customer data.  
+> Built normalized schemas (3NF) with **ER diagrams, triggers, and stored procedures** for robust business operations.
+
+### 🚗 Highway Hypnosis Detection System (Capstone, Ongoing)
+> Developing a **multi-modal driver monitoring system** using Python, OpenCV, and a PPG sensor.  
+> Integrated **HRV, eye-tracking, and lane-drift detection** to provide real-time inattention alerts.  
+> Focused on **non-intrusive, cost-effective deployment** for existing vehicles.
+
+### 🧠 Facial Orientation & Grain Classifier
+> Built a **real-time webcam-based facial orientation detector** using TensorFlow & OpenCV.  
+> Trained deep learning classifiers to identify grain types with **90%+ accuracy**.
 
 ### 💬 NLP Sentiment Analysis on Comedy Transcripts
-> Analyzed comedian scripts using TextBlob; explored subjectivity and polarity as part of a Coursera NLP specialization.
+> Explored subjectivity & polarity trends across **stand-up comedy scripts** using TextBlob.  
+> Conducted as part of the **DeepLearning.AI NLP specialization** coursework.
 
-### 📊 TOPSIS Python Package
-> Published on **PyPI**: A command-line decision-making tool using the TOPSIS algorithm with CSV input/output support.
+### 📊 TOPSIS Decision Tool
+> Developed and published a **Python CLI package** for **multi-criteria decision making**.  
+> Supports **CSV input/output** and is available on **PyPI**.
 
-### 📰 Dynamic Event Website
-> Created a dynamic PHP+SQLite website that displays daily newspaper event info stored in a database.
 
----
 
 ## 🛠️ Tech Stack
 
