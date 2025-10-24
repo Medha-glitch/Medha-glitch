@@ -44,6 +44,7 @@
 > Explored subjectivity & polarity trends across **stand-up comedy scripts** using **TextBlob**.
 > Conducted as part of the DeepLearning.AI NLP specialization coursework.
 
+---
 
 ## 🛠️ Tech Stack
 
