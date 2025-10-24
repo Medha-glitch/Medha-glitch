@@ -14,27 +14,36 @@
 
 ## 🚀 Projects I'm Proud Of
 
-### 🛒 Commercial Operations Database
-> Designed a relational **MySQL + PL/SQL** database for inventory, orders, deliveries, and customer data.  
-> Built normalized schemas (3NF) with **ER diagrams, triggers, and stored procedures** for robust business operations.
+### 🤖 AI-Powered Productivity Assistant
+> Developed an **AI-integrated system** for task management, journaling, and mood-based recommendations using **Python** and **SQLite**.
+> Trained a **TF-IDF + Logistic Regression model** on 50K IMDB samples, achieving **88% accuracy** and an **F1-score of 0.88**.
+> Implemented 3-way sentiment mapping and a rule-based recommender suggesting **coding or wellness activities**.
+> Integrated a **Flask-based dashboard** for daily sentiment analytics.
+
+---
 
 ### 🚗 Highway Hypnosis Detection System (Capstone, Ongoing)
-> Developing a **multi-modal driver monitoring system** using Python, OpenCV, and a PPG sensor.  
-> Integrated **HRV, eye-tracking, and lane-drift detection** to provide real-time inattention alerts.  
-> Focused on **non-intrusive, cost-effective deployment** for existing vehicles.
+> Developing a **multi-modal driver monitoring system** using Python, **OpenCV**, and a **PPG sensor**.
+> Integrated **HRV, eye-tracking, and lane-drift detection** to provide real-time inattention alerts.
+> Designed for **non-intrusive, cost-effective deployment** on existing vehicles.
 
-### 🧠 Facial Orientation & Grain Classifier
-> Built a **real-time webcam-based facial orientation detector** using TensorFlow & OpenCV.  
-> Trained deep learning classifiers to identify grain types with **90%+ accuracy**.
+---
 
-### 💬 NLP Sentiment Analysis on Comedy Transcripts
-> Explored subjectivity & polarity trends across **stand-up comedy scripts** using TextBlob.  
-> Conducted as part of the **DeepLearning.AI NLP specialization** coursework.
+### 🛒 Commercial Operations Database (SQL)
+> Built a **relational database** for inventory, orders, deliveries, and customer data using **MySQL + PL/SQL**.
+> Modeled **normalized schemas (3NF)** with **ER diagrams, triggers, and stored procedures** for robust operations.
 
-### 📊 TOPSIS Decision Tool
-> Developed and published a **Python CLI package** for **multi-criteria decision making**.  
-> Supports **CSV input/output** and is available on **PyPI**.
+---
 
+### 📊 TOPSIS Decision Tool (PyPI)
+> Developed and published a **Python CLI package** (available on **PyPI**) for **multi-criteria decision making**.
+> Uses **NumPy** for calculations and supports **CSV input/output**.
+
+---
+
+### 💬 Sentiment Analysis on Comedy Transcripts
+> Explored subjectivity & polarity trends across **stand-up comedy scripts** using **TextBlob**.
+> Conducted as part of the DeepLearning.AI NLP specialization coursework.
 
 
 ## 🛠️ Tech Stack
